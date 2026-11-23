@@ -4,14 +4,13 @@
 
 <h1 align="center">AMIT Burner</h1>
 
+<h2 align="center">Download</h2>
+
 <p align="center">
-  <a href="https://github.com/FathiMandour/AMIT-Burner/releases/download/v2.3/AMIT-Burner-2.3-x86.exe"><strong>Download · Windows 32-bit</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/FathiMandour/AMIT-Burner/releases/download/v2.3/AMIT-Burner-2.3-x64.exe"><strong>Download · Windows 64-bit</strong></a>
-  &nbsp; · &nbsp;
-  <a href="#how-to-use">How to use</a>
-  &nbsp; · &nbsp;
-  <a href="#preview">Preview</a>
+  <a href="https://github.com/FathiMandour/AMIT-Burner/releases/download/v2.3/AMIT-Burner-2.3-x86.exe"><img src="https://img.shields.io/badge/Download-Windows%2032--bit-C8102E?style=for-the-badge" alt="Download Windows 32-bit" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/FathiMandour/AMIT-Burner/releases/download/v2.3/AMIT-Burner-2.3-x64.exe"><img src="https://img.shields.io/badge/Download-Windows%2064--bit-C8102E?style=for-the-badge" alt="Download Windows 64-bit" height="40"></a>
 </p>
 
 <p align="center">
