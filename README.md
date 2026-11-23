@@ -5,7 +5,9 @@
 <h1 align="center">AMIT Burner</h1>
 
 <p align="center">
-  <a href="https://github.com/FathiMandour/AMIT-Burner/releases">Downloads</a>
+  <a href="https://github.com/FathiMandour/AMIT-Burner/releases/download/v2.3/AMIT-Burner-2.3-x86.exe"><strong>Download · Windows 32-bit</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/FathiMandour/AMIT-Burner/releases/download/v2.3/AMIT-Burner-2.3-x64.exe"><strong>Download · Windows 64-bit</strong></a>
   &nbsp; · &nbsp;
   <a href="#how-to-use">How to use</a>
   &nbsp; · &nbsp;
